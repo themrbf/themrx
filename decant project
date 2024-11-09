@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+     <html lang="en">
+     <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <meta name="description" content="Brothers Fragrances - Decants and Perfume Samples">
+       <title>Brothers Fragrances</title>
+       <link rel="stylesheet" href="css/style.css">
+     </head>
+     <body>
+
+       <!-- Navigation -->
+       <header>
+         <nav class="navbar">
+           <ul>
+             <li><a href="index.html">Home</a></li>
+             <li><a href="shop.html">Shop</a></li>
+             <li><a href="contact.html">Contact</a></li>
+             <li><a href="cart.html">Cart</a></li>
+           </ul>
+         </nav>
+       </header>
+
+       <!-- Hero Section -->
+       <section class="hero">
+         <div class="hero-content">
+           <h1>Explore Premium Perfume Decants</h1>
+           <p>Your go-to place for high-quality fragrance samples and decants.</p>
+           <a href="shop.html" class="cta-button">Browse Our Collection</a>
+         </div>
+       </section>
+
+       <!-- Featured Products -->
+       <section class="featured-products">
+         <h2>Featured Decants</h2>
+         <div class="product-list">
+           <div class="product">
+             <img src="images/creed-aventus.jpg" alt="Creed Aventus Decant">
+             <h3>Creed Aventus</h3>
+             <p>$15 - 5ml Decant</p>
+             <a href="product.html?product=creed" class="btn">View Details</a>
+           </div>
+           <div class="product">
+             <img src="images/diorsauvage.jpg" alt="Dior Sauvage Decant">
+             <h3>Dior Sauvage</h3>
+             <p>$12 - 5ml Decant</p>
+             <a href="product.html?product=dior" class="btn">View Details</a>
+           </div>
+           <div class="product">
+             <img src="images/blackorchid.jpg" alt="Tom Ford Black Orchid Decant">
+             <h3>Tom Ford Black Orchid</h3>
+             <p>$18 - 5ml Decant</p>
+             <a href="product.html?product=blackorchid" class="btn">View Details</a>
+           </div>
+         </div>
+       </section>
+
+       <!-- Footer -->
+       <footer>
+         <div class="footer-content">
+           <p>&copy; 2024 Brothers Fragrances. All Rights Reserved.</p>
+           <p><a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms of Service</a></p>
+         </div>
+       </footer>
+
+       <script src="js/scripts.js"></script>
+     </body>
+     </html>
